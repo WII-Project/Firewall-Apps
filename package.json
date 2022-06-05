@@ -1,0 +1,14 @@
+{
+    "name": "anonymous",
+    "version": "1.0.0",
+    "description": "project",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "http": "0.0.1-security",
+        "http-proxy": "^1.18.1",
+        "sqlite3": "^5.0.2"
+    },
+    "devDependencies": {},
+    "author": "anonymous",
+    "license": "ISC"
+}

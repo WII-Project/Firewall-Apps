@@ -1,0 +1,1 @@
+The wii project is to create a web firewall using node.js. In wii waf, if a request containing a malicious string (attack payload, eg: SQL Injection, XSS) comes more than 5 times, the server will block the IP. By blocking IP, we can protect our servers from hackers.
